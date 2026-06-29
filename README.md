@@ -2,7 +2,7 @@
 
 ## Description
 
-A funky clouds skybox shader and a god rays post process effect compatible with the built in render pipeline.
+A funky clouds skybox shader and a god rays post process effect for unity compatible with the built in render pipeline.
 
 ## License
 
